@@ -1,3 +1,11 @@
+/* NOTE:
+  Just some simple styles for my analog clock,
+
+  If you want you can use this, change it, distribute it.
+  You dont have to give me any credit, I don't really care about
+  CSS files too much when it comes to licensing.
+
+ */
 .div1 {
   font-size: 30px;
   text-align: center;
@@ -13,4 +21,16 @@
   border-radius: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+.div3{
+  padding-top: 3px;
+  margin-top: 5px;
+  background-color: #b5b5b5;
+  color: #333333;
+  width: 12em;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Quattrocento', serif;
+  border-radius: 10px;
+  font-size: 20px;
 }
